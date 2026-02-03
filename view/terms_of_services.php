@@ -159,6 +159,10 @@ session_start();
 <footer>
     &copy; 2025 Quiz Buzz. All rights reserved.
     <br>
+    <a href="landingpage.html">Home</a> |
+    <a href="contact.php">Get in Touch</a> |
+    <a href="privacy_policy.php">Privacy Policy</a>
+
 </footer>
 
 </body>
